@@ -1,0 +1,40 @@
+.header {
+    position: static;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: whitesmoke; 
+    width: 90%;
+}
+
+.nav {
+    position: absolute;
+    right: 20px;
+    top: 0px;
+    margin: 8px;
+    background-color: whitesmoke;
+}
+
+li {
+    display: inline;
+}
+
+.name {
+    position: absolute;
+    left: 10px;
+    width: 100%;
+    margin: 0px;
+    padding: 0%;
+    background-color: whitesmoke;
+}
+
+.biotext {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.container {
+    position: absolute; 
+    margin: 20px, 30px; 
+}
+
+.footer {
+    position: center;
+}
